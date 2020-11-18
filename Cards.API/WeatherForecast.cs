@@ -1,6 +1,6 @@
 using System;
 
-namespace Cards
+namespace Cards.API
 {
     public class WeatherForecast
     {
